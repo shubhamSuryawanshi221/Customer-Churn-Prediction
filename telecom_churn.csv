@@ -1,0 +1,21 @@
+CustomerID,Gender,Age,MonthlyCharges,Tenure,ContractType,Churn
+1,Male,25,500,1,Month-to-Month,Yes
+2,Female,30,600,2,One Year,No
+3,Male,45,550,3,Two Year,No
+4,Female,50,700,4,Month-to-Month,Yes
+5,Male,28,450,5,One Year,No
+6,Female,32,650,6,Month-to-Month,Yes
+7,Male,41,580,7,One Year,No
+8,Female,38,720,8,Two Year,No
+9,Male,29,500,9,Month-to-Month,Yes
+10,Female,35,670,10,One Year,No
+11,Male,27,620,3,Month-to-Month,Yes
+12,Female,33,510,5,One Year,No
+13,Male,42,700,7,Two Year,No
+14,Female,46,730,9,Month-to-Month,Yes
+15,Male,31,560,11,One Year,No
+16,Female,39,680,13,Month-to-Month,Yes
+17,Male,44,590,15,One Year,No
+18,Female,48,710,17,Two Year,No
+19,Male,26,520,19,Month-to-Month,Yes
+20,Female,36,690,20,One Year,No
