@@ -46,4 +46,4 @@ GitHub: github.com/shubhamSuryawanshi221
 If you'd like to suggest improvements, additional visualizations, or alternative modeling techniques, feel free to submit issues or pull requests.
 
 <img src="Cover.png" width="100%" />
-<img src="Dashboard_Prediction1.png" width="100%" />
+<img src="Customer_Prediction1.png" width="100%" />
